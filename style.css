@@ -198,7 +198,10 @@ button {
   text-align: center;
 }
 
-.fa-regular {
+.fa-regular,
+.small_image,
+.mixed_colour,
+.white {
   cursor: pointer;
 }
 
